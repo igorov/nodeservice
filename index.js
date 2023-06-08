@@ -10,7 +10,8 @@ const Cliente = mongoose.model('Cliente', new mongoose.Schema({
 const app = express();
 app.use(express.json());
 
-const urlMongo = process.env.MONGO_URI;
+const urlMongo = "mongodb://mongo:mongo@localhost:27017/clientes?authSource=admin";
+//const urlMongo = process.env.MONGO_URI;
 
 mongoose.connect(urlMongo);
 
@@ -21,9 +22,10 @@ app.get('/', async (_req, res) => {
 })
 app.get('/crear', async (_req, res) => {
     console.log('creando...')
-    await Cliente.create({ nombres: 'Igorov', apellidos: 'Laura', email: '234234234' })
+    await Cliente.create({ nombres: 'Anakin', apellidos: 'Skaywalker', email: 'darth.vader@imperio.com' })
     return res.send('ok')
 })
+
 app.post('/', async (_req, res) => {
     const createdResource = await Cliente.create(_req.body)
 
