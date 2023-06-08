@@ -13,6 +13,8 @@ app.use(express.json());
 const urlMongo = "mongodb://mongo:mongo@localhost:27017/clientes?authSource=admin";
 //const urlMongo = process.env.MONGO_URI;
 
+console.log(`Cadena de conexión: ${urlMongo}`);
+
 mongoose.connect(urlMongo);
 
 app.get('/', async (_req, res) => {    
