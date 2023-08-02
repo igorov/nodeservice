@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "is-tech-academy",
+  "private_key_id": "1eaecbafce00c29c642ba5baa88df87094f10e3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDrQ7OBgCkxQPVH\nm/06yuEfTeIjPvRINdDU1VAJUhkASm7mfjdAE5gyNBqdGPMnFkhEWkcTBEowKcfl\nG0/o5FhE8jv3MdCz6sdoP8nG/bWNCBg55latSFL0Olj/d8Tac9JAei7RS5BJhaNu\n2FJ1Uh599pO8FrvLFl/3SDgENZOlu5UELTrFyUsTbVRoYGOzDJBrX7RYaJyEzQjU\nCJhWzQB51RU3GYbnDHDbs8dQkzORuzefCOGcETlEqx08QUxq5BP0E84bNo2EWqSc\nPb/yAEKxgLKnsCHxra+uh2vpQDjJj23aD2K/sj1lXwyXGf91+m5YyCH3xLdqfZBy\naM82jdZdAgMBAAECggEACwSuBi/3vel06K2oO8tUpSADVJ3rguuXpDV5UiEY2qf3\nGa8U7K3+QBurQ2rvuFzqyt4PhhclV6wdQzWhlclb+PP/VaHCTIAqZqTWJmOremIZ\nVbIxTQbzcPdqmPcFroAje1w9j7/M5M9FdY4xY8fnda7JVyhuvcwxImZXeUWpFzyN\nePzxFzVMkz9zywPCkqMejLY5pp7zrl5WMbZ4mB3Ebnh0U1fKmPWgcCOSjZX0HGM6\nlPxWhVOcprxXhHixR+r/PKOeaobZH6aK02cI+Eg/yee6czpmnSPORxmUpBO7/3qq\nUOzRWGdaxfD/IbAENFlt3T6tPgiPnDogXIoBy2p9YQKBgQD34t4HXw6pVGnQHiFi\nblblGJCP5a4KU0GjPmlGvGKA7Ey+4oQ51dtFdv4mF7nhzDqxXfu9nvZB5+yUAa0Q\nGlMb14x1ng7cE2Uk4qhgWFpznGoKgE9mKokEVNnUX7LSbMpeKfRGFZ2D+6BYd8gE\naET0u6SYMPDRAOb/EMP+BD4NLwKBgQDy9xJO22iwmjOjcd+RTgVq1k2cXuIw/8cR\ngeISxwklV/fBqaW1iirTR+fkvV28x8gBdEwDmYIAggb3ep38pyyCCg1t/tQ0ka6Q\nd172O3bflXZggw2edRe05OwARJKCV1IlL2ZSRppaceHd71l/Bsn5nPuEto1eVvub\nR2x2cZCqMwKBgQDz9r/2GUPgu0d4oG7S5S14Q/ji5nWni9EpzJ7oEzgPEoFlzKG+\nGg+4CiiPbQJwjAOn1IuSUASlUJCyCgQ9uOramAWRLIILbrs41ipIyCwdZG+o7ic2\nsd4v+SJ5tcXU+2Ufz8Ktx1BDOT7SUvD0BXr4MkUH1ALucCjoF6QNODep2QKBgQCy\nJ3bWOc4XCMrqgxoy2qngQAmiqnRjB3o5nSpfKHDNYCZ8a9/lMM3cJLKmKDCutzMx\n1cvTK+GGa9Gd79weoZpiM+rLB/skHNqKde080jeFFHw7onz+/s8GRoHCZIWla1AB\nkjMOC1UtEqpS6SmPmjPJg1Fua8lXLqLJpmKiqv0vvwKBgQC7PpyvJpskriJBxd6z\nPeVPh/q0/gXBoh+iGAv7TeI9uTlQzYQUpNAunbxwSChh9uvl+0gzrjL9UHN0FPet\nwE7KuPEmtmgrVbROCLDGZN+YBNP4Wm6yVPEui2/yaC/S/jMxveD+F11x9mdgNQi+\nRZ16hVvUEBbLzrK1RvjxHpzHIQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsub@is-tech-academy.iam.gserviceaccount.com",
+  "client_id": "115865024482465550464",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsub%40is-tech-academy.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
